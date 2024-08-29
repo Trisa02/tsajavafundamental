@@ -32,6 +32,9 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="5929c938-aa57-46d4-b6ad-5aa0f291881a" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -73,7 +76,7 @@
       <updated>1724937017401</updated>
       <workItem from="1724937018467" duration="1286000" />
       <workItem from="1724938947333" duration="1769000" />
-      <workItem from="1724940754485" duration="490000" />
+      <workItem from="1724940754485" duration="2308000" />
     </task>
     <servers />
   </component>
