@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86e3dd2-72d0-406f-873a-7b952d13da1d" name="Changes" comment="helloworld fundamental">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/Operator/OperatorAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/programmingbasics/CobaVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/programmingbasics/PassingBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/stringobject/IOScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +42,103 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/FILE TRISA/Codetogether/codetogether-2022.2.3-01381.zip&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CobaVariable.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.IOScanner.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperatorAritmatika.executor": "Run",
+    "Application.PassingBy.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/FILE TRISA/Codetogether/codetogether-2022.2.3-01381.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.IOScanner">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.HelloWorld" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.stringobject.IOScanner" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.stringobject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.Main" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorAritmatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.Operator.OperatorAritmatika" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassingBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.programmingbasics.PassingBy" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.programmingbasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IOScanner" />
+        <item itemvalue="Application.OperatorAritmatika" />
+        <item itemvalue="Application.PassingBy" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,7 +156,11 @@
       <updated>1724937017401</updated>
       <workItem from="1724937018467" duration="1286000" />
       <workItem from="1724938947333" duration="1769000" />
-      <workItem from="1724940754485" duration="2308000" />
+      <workItem from="1724940754485" duration="2650000" />
+      <workItem from="1724982203220" duration="794000" />
+      <workItem from="1725010853926" duration="604000" />
+      <workItem from="1725017884729" duration="3391000" />
+      <workItem from="1725277038156" duration="2249000" />
     </task>
     <servers />
   </component>
