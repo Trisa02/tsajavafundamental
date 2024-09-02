@@ -12,6 +12,21 @@ Version 1.0
 public class ClassifiedException {
 
     public static void main(String [] args){
-        
+        try{
+            Thread.sleep(10);
+        } catch (InterruptedException e){
+            throw new RuntimeException(e);
+        }
+
+        // penganan eror
+        ///Jika Bingung pilih handle exception pilih saja "Exception"
+        System.out.println("INI DI EKSEKUSI....");
+        try{
+            int intX = 1/0;
+            int intY = intX;
+        }catch (Exception e){
+            System.out.println("Ketangkap ni eror " + e.getMessage());
+        }
+        System.out.println("Berhenti Disini.....");
     }
 }
