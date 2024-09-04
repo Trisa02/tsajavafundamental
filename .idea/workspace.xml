@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86e3dd2-72d0-406f-873a-7b952d13da1d" name="Changes" comment="helloworld fundamental">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/exception/KeywordThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/exception/ProduceEror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/exception/SampleMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/ContohStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/PanggilMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/pengulangan/LoopFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/stringobject/ObjectString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/util/GlobalFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/exception/ClassifiedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/exception/ClassifiedException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +49,18 @@
   "keyToString": {
     "Application.ClassifiedException.executor": "Run",
     "Application.CobaVariable.executor": "Run",
+    "Application.ContohStatic.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IOScanner.executor": "Run",
+    "Application.If.executor": "Run",
     "Application.KeywordThrow.executor": "Run",
+    "Application.LoopFor.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperatorAritmatika.executor": "Run",
     "Application.PassingBy.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/FILE TRISA/Codetogether/codetogether-2022.2.3-01381.zip",
     "node.js.detected.package.eslint": "true",
@@ -63,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KeywordThrow">
+  <component name="RunManager" selected="Application.ContohStatic">
     <configuration name="ClassifiedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tsa.exception.ClassifiedException" />
       <module name="pcmjavafundamental" />
@@ -77,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.stringobject.IOScanner" />
+    <configuration name="ContohStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.method.ContohStatic" />
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.stringobject.*" />
+          <option name="PATTERN" value="com.tsa.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.percabangan.If" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.percabangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorAritmatika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.Operator.OperatorAritmatika" />
+    <configuration name="LoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.pengulangan.LoopFor" />
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.Operator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PassingBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.programmingbasics.PassingBy" />
-      <module name="pcmjavafundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsa.programmingbasics.*" />
+          <option name="PATTERN" value="com.tsa.pengulangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContohStatic" />
+        <item itemvalue="Application.LoopFor" />
+        <item itemvalue="Application.If" />
         <item itemvalue="Application.KeywordThrow" />
         <item itemvalue="Application.ClassifiedException" />
-        <item itemvalue="Application.IOScanner" />
-        <item itemvalue="Application.OperatorAritmatika" />
-        <item itemvalue="Application.PassingBy" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +169,8 @@
       <workItem from="1724982203220" duration="794000" />
       <workItem from="1725010853926" duration="604000" />
       <workItem from="1725017884729" duration="3391000" />
-      <workItem from="1725277038156" duration="5461000" />
+      <workItem from="1725277038156" duration="6440000" />
+      <workItem from="1725365546939" duration="8211000" />
     </task>
     <servers />
   </component>
