@@ -5,15 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86e3dd2-72d0-406f-873a-7b952d13da1d" name="Changes" comment="helloworld fundamental">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/exception/SampleMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/ContohStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/PanggilMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/pengulangan/LoopFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/stringobject/ObjectString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/util/GlobalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/Array2Dimensi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/ArrayFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/BubbleSortASC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/LoopingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/SelectionSortASC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/ArrayObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/Contoh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/IContoh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/ObjectX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/AngkaRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/FungsiMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/GanjilGenap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/LuasSegitiga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/VokalKonsonan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/model/BuatPassing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/model/Divisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/service/Divisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/service/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/wrapperclass/ContohGenericClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/If.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,9 +64,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayObject.executor": "Run",
     "Application.ClassifiedException.executor": "Run",
     "Application.CobaVariable.executor": "Run",
+    "Application.ContohGenericClass.executor": "Run",
     "Application.ContohStatic.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IOScanner.executor": "Run",
     "Application.If.executor": "Run",
@@ -72,13 +92,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContohStatic">
-    <configuration name="ClassifiedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.exception.ClassifiedException" />
+  <component name="RunManager" selected="Application.HashSetExample">
+    <configuration name="ArrayObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.collection.ArrayObject" />
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.exception.*" />
+          <option name="PATTERN" value="com.tsa.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContohGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.wrapperclass.ContohGenericClass" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.wrapperclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +132,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.collection.HashSetExample" />
+      <module name="pcmjavafundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsa.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tsa.percabangan.If" />
       <module name="pcmjavafundamental" />
@@ -112,39 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeywordThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.exception.KeywordThrow" />
-      <module name="pcmjavafundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsa.exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.pengulangan.LoopFor" />
-      <module name="pcmjavafundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsa.pengulangan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContohStatic" />
-        <item itemvalue="Application.LoopFor" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.ArrayObject" />
+        <item itemvalue="Application.ContohGenericClass" />
         <item itemvalue="Application.If" />
-        <item itemvalue="Application.KeywordThrow" />
-        <item itemvalue="Application.ClassifiedException" />
+        <item itemvalue="Application.ContohStatic" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +191,9 @@
       <workItem from="1725017884729" duration="3391000" />
       <workItem from="1725277038156" duration="6440000" />
       <workItem from="1725365546939" duration="8211000" />
+      <workItem from="1725415795807" duration="606000" />
+      <workItem from="1725451345794" duration="1960000" />
+      <workItem from="1725505175863" duration="12108000" />
     </task>
     <servers />
   </component>

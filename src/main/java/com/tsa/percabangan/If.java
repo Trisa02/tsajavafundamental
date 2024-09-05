@@ -45,15 +45,49 @@ public class If {
 //        String strMessage = intX==7?"Masuk kesini dengan intX 7 ":"Masuk kesini dengan intX "+intX;
 //        System.out.println(strMessage);
 
-        int intMax = 2147483647; // -2147483648 s.d 2147483647
-        System.out.println(intMax);
-        String strFlag = "J";
-        if(strFlag.equals("J")) {
-            // lakukan insert ke table A
-            // lakukan insert ke table B
-            // lakukan Update table C
+//        int intMax = 2147483647; // -2147483648 s.d 2147483647
+//        System.out.println(intMax);
+//        String strFlag = "J";
+//        if(strFlag.equals("J")) {
+//            // lakukan insert ke table A
+//            // lakukan insert ke table B
+//            // lakukan Update table C
+//        }else {
+//            // insert ke table E
+//        }
+
+        int korupsi = 138000000;
+
+        if (korupsi < 1000000) {
+
+            System.out.println("Penjara 1 tahun");
+
         }else {
-            // insert ke table E
+
+            if (korupsi< 100000000) {
+
+                System.out.println("Penjara 5 tahun");
+
+            }else {
+
+                if (korupsi < 1000000000) {
+
+                    System.out.println ("Penjara 10 tahun");
+
+                }else {
+
+                    System.out.println("Penjara 20 tahun");
+
+                }
+
+            }
+
+        }
+
+        if (korupsi > 150000000) {
+
+            System.out.println("Hukuman kebiri");
+
         }
 
     }
