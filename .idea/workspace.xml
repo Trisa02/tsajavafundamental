@@ -5,31 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86e3dd2-72d0-406f-873a-7b952d13da1d" name="Changes" comment="helloworld fundamental">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/Array2Dimensi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/ArrayFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/BubbleSortASC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/LoopingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/SelectionSortASC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/ArrayObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/Contoh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/IContoh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/collection/ObjectX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/AngkaRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/FungsiMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/GanjilGenap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/LuasSegitiga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/Palindrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/logikapemprograman/VokalKonsonan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/model/BuatPassing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/model/Divisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/service/Divisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/service/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/wrapperclass/ContohGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extent_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/array/SelectionSortSampleOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/ModelSetterGetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/ModelSetterGetterDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/AbstractContoh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/CallClassModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/ClassAsObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/ClassToModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/CobaDynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/ContohConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/IPusing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/PanggilAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/PanggilConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/ScopeEncapsule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/impl/DepartmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/oop/model/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/thread/Async.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/thread/SyncThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/unittesting/FunsionalText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsa/unittesting/OperatorAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsa/ExtendManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsa/ExtendReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsa/testfungsional/TestAritmatika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsa/testfungsional/TestText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/tsa/util/DataGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/If.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/method/BedaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/method/BedaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsa/percabangan/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,43 +71,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayObject.executor": "Run",
-    "Application.ClassifiedException.executor": "Run",
-    "Application.CobaVariable.executor": "Run",
-    "Application.ContohGenericClass.executor": "Run",
-    "Application.ContohStatic.executor": "Run",
-    "Application.HashSetExample.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.IOScanner.executor": "Run",
-    "Application.If.executor": "Run",
-    "Application.KeywordThrow.executor": "Run",
-    "Application.LoopFor.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.OperatorAritmatika.executor": "Run",
-    "Application.PassingBy.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/FILE TRISA/Codetogether/codetogether-2022.2.3-01381.zip",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassifiedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CobaVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContohGenericClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContohStatic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IOScanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeywordThrow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorAritmatika.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassingBy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/PT.DIKA/IdeaProjects/JavaBackendBootcamp/pcmjavafundamental/run-test.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestAritmatika.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestAritmatika.testKurang.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestAritmatika.testModulus.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestAritmatika.testTambah.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestText.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestText.hurufAwal.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestText.textPanjangText.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PT.DIKA/IdeaProjects/JavaBackendBootcamp/pcmjavafundamental&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HashSetExample">
-    <configuration name="ArrayObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.collection.ArrayObject" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tsa.oop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/PT.DIKA/IdeaProjects/JavaBackendBootcamp/pcmjavafundamental/run-test.xml">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsa.test.test" />
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.collection.*" />
+          <option name="PATTERN" value="com.tsa.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,65 +132,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContohGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.wrapperclass.ContohGenericClass" />
+    <configuration name="C:/Users/PT.DIKA/IdeaProjects/JavaBackendBootcamp/pcmjavafundamental/run-test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pcmjavafundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsa.wrapperclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/run-test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContohStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.method.ContohStatic" />
+    <configuration name="TestText" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.method.*" />
+          <option name="PATTERN" value="com.tsa.testfungsional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tsa.testfungsional" />
+      <option name="MAIN_CLASS_NAME" value="com.tsa.testfungsional.TestText" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.collection.HashSetExample" />
+    <configuration name="TestText.hurufAwal" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.collection.*" />
+          <option name="PATTERN" value="com.tsa.testfungsional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tsa.testfungsional" />
+      <option name="MAIN_CLASS_NAME" value="com.tsa.testfungsional.TestText" />
+      <option name="METHOD_NAME" value="hurufAwal" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsa.percabangan.If" />
+    <configuration name="TestText.textPanjangText" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pcmjavafundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsa.percabangan.*" />
+          <option name="PATTERN" value="com.tsa.testfungsional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tsa.testfungsional" />
+      <option name="MAIN_CLASS_NAME" value="com.tsa.testfungsional.TestText" />
+      <option name="METHOD_NAME" value="textPanjangText" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.ArrayObject" />
-        <item itemvalue="Application.ContohGenericClass" />
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.ContohStatic" />
+        <item itemvalue="TestNG.C:/Users/PT.DIKA/IdeaProjects/JavaBackendBootcamp/pcmjavafundamental/run-test.xml" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="TestNG.TestText" />
+        <item itemvalue="TestNG.TestText.hurufAwal" />
+        <item itemvalue="TestNG.TestText.textPanjangText" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +230,18 @@
       <workItem from="1725365546939" duration="8211000" />
       <workItem from="1725415795807" duration="606000" />
       <workItem from="1725451345794" duration="1960000" />
-      <workItem from="1725505175863" duration="12108000" />
+      <workItem from="1725505175863" duration="12814000" />
+      <workItem from="1725592009898" duration="1636000" />
+      <workItem from="1725623704019" duration="2159000" />
+      <workItem from="1725795944318" duration="1945000" />
+      <workItem from="1725867952824" duration="633000" />
+      <workItem from="1725888513608" duration="3535000" />
+      <workItem from="1726035010937" duration="6421000" />
+      <workItem from="1726061407997" duration="7086000" />
+      <workItem from="1726104861963" duration="9392000" />
+      <workItem from="1726142788146" duration="597000" />
+      <workItem from="1726191704704" duration="657000" />
+      <workItem from="1726309881349" duration="1235000" />
     </task>
     <servers />
   </component>
