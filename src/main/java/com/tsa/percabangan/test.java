@@ -18,4 +18,10 @@ public class test {
 //        System.out.println(nama.substring(0,12));
 //
 //    }
+    public static  void  main (String [] args){
+        for (int i = 1; i < 5; i ++){
+            System.out.println(i +",");
+        }
+
+    }
 }

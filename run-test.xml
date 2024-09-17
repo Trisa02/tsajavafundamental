@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite Semua">
+    <listeners >
+        <listener class-name="com.tsa.ExtendReportListener">
+
+        </listener>
+    </listeners>
+    <test name="Test-All">
+        <classes>
+            <class name="com.tsa.testfungsional.TestAritmatika"></class>
+            <class name="com.tsa.testfungsional.TestText"></class>
+        </classes>
+    </test>
+</suite>
